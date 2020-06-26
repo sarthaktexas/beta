@@ -1,11 +1,14 @@
 # beta
 a repo of beta profiles
 
-<img src="idevices-wwdc20.png" alt="Download Apple Beta Software"/>
+![](idevices-wwdc20.png)
 
 ## Use Safari to download these:
 
-### ⚠️ This *will* void your warranty and void AppleCare. This will also prevent Apple from making any repairs to the device. This may also completely brick your device. Be very careful here!
+### ⚠️ These *are* developer betas. For the public beta, go directly to [Apple's website](https://beta.apple.com). 
+### Downloading this is a risk. It is *not* meant to go on main devices. If you choose to accept this term, go ahead and choose a download.
+
+##### Sarthak's recommendation: The only stable releases right now are iOS 14, iPadOS 14, and WatchOS 7. DO NOT GET MacOS 11 Big Sur. It is extremely buggy and is prone to make essential apps not work. If you really want it, go ahead and download at your own risk.
 
 <a id="raw-url" href="https://raw.githubusercontent.com/sarthaktexas/beta/master/iOS_14_Beta_Profile.mobileconfig">Download iOS 14 Developer Beta</a><br>
 <a id="raw-url" href="https://raw.githubusercontent.com/sarthaktexas/beta/master/iOS_iPadOS_14_AppleSeed_Profile.mobileconfig">Download iPadOS 14 Developer Beta</a><br>
