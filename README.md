@@ -12,7 +12,7 @@ a repo of beta profiles
 <a id="raw-url" href="https://raw.githubusercontent.com/sarthaktexas/beta/master/macOSDeveloperBeta16AccessUtility.dmg">Download MacOS 11 Big Sur Developer Beta</a><br>
 <a id="raw-url" href="https://raw.githubusercontent.com/sarthaktexas/beta/master/watchOS_7_Beta_Profile.mobileconfig">Download WatchOS 7 Developer Beta</a><br>
 
-> tvOS 14 is available. go text me at 2107273516 for more info.
+> tvOS 14 is available. Text me at 210-727-3516 for more info.
 
 ## Compatible Devices
 #### iOS 14
